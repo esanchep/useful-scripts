@@ -1,3 +1,3 @@
 # useful-scripts
 
-- [Git](git/README.md): git-related scripts
+- [Git](git/): git-related scripts
