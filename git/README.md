@@ -19,3 +19,9 @@ Launch the `mirror.sh` with the following three arguments:
 - Username the github username
 - Name of the repo to be cloned
 - Name of the new repo to be mirrored
+
+#### Example
+
+```console
+./mirror.sh myGitHubUsername repoToBeCloned newRepo
+```
