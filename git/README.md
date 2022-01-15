@@ -1,6 +1,6 @@
 # Git-related scripts
 
-## Clone a repository into a new one
+## Mirror - Clone a repository into a new one
 
 ### What is it
 
