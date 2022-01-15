@@ -1,16 +1,18 @@
-# Clone a repository into a new one
+# Git-related scripts
 
-## What is it
+## Clone a repository into a new one
+
+### What is it
 
 This is a script that creates a replica of a given GitHub user's repository.
 
-## Requisites
+### Requisites
 
 - Git
 - GitHub cli
 - Be logged-in through the GitHub cli (`gh auth login`)
 
-## How it works
+### How it works
 
 Launch the `mirror.sh` with the following three arguments:
 
