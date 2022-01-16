@@ -16,12 +16,11 @@ This is a script that creates a replica of a given GitHub user's repository.
 
 Launch the `mirror.sh` with the following three arguments:
 
-- Username the github username
 - Name of the repo to be cloned
 - Name of the new repo to be mirrored
 
 #### Example
 
 ```console
-./mirror.sh myGitHubUsername repoToBeCloned newRepo
+./mirror.sh gitHubUsername/repoToBeCloned gitHubUsername/newRepo
 ```
