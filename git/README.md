@@ -22,5 +22,5 @@ Launch the `mirror.sh` with the following three arguments:
 #### Example
 
 ```console
-./mirror.sh gitHubUsername/repoToBeCloned gitHubUsername/newRepo
+./mirror.sh gitHubUsername/repoToBeCloned gitHubUsername/newRepo /path
 ```
